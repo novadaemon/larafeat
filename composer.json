@@ -1,0 +1,19 @@
+{
+    "name": "novadaemon/larafeat",
+    "description": "Laravel package to implements Domain Driven Design pattern. Inspired by lucidarch/lucid",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Novadaemon\\Larafeat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesús García",
+            "email": "novadaemon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
