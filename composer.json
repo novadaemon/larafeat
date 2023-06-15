@@ -3,6 +3,12 @@
     "description": "Laravel package to implements Domain Driven Design pattern. Inspired by lucidarch/lucid",
     "type": "project",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "architecture",
+        "domain driven design",
+        "features"
+    ],
     "autoload": {
         "psr-4": {
             "Novadaemon\\Larafeat\\": "src/"
@@ -14,6 +20,17 @@
             "email": "novadaemon@gmail.com"
         }
     ],
+    "require": {
+        "symfony/filesystem": "*",
+        "symfony/finder": "*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Novadaemon\\Larafeat\\LarafeatServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "prefer-stable": true
 }
