@@ -12,7 +12,6 @@ trait JobDispatcher
      * Excute the job
      *
      * @param [type] $job
-     * @return void
      */
     public function run($job)
     {
