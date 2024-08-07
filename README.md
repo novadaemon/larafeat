@@ -1,6 +1,8 @@
 # novadaemon/larafeat
 
-Larafeat is a simplified modification of the [Lucidarch](https://docs.lucidarch.dev). It allows you to build and serve functionalities in your Laravel application.
+Larafeat is a simplified modification of the [Lucidarch](https://docs.lucidarch.dev). It allows you to build and serve features in your Laravel application.
+
+![Larafeat](https://banners.beyondco.de/Larafeat.png?theme=light&packageManager=composer+require&packageName=novadaemon%2Flarafeat&pattern=circuitBoard&style=style_1&description=Easy+way+to+implement+DDD+pattern+in+your+Laravel+application&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 ## Instalation
 
